@@ -10,10 +10,6 @@
 
 ## 🚀 Quick start
 1. Clone or download this repository.
-2. Open `test.html` in any modern browser (Chromium ≥102, Firefox ≥100, Safari ≥15).  
-   *Tip:* serving locally avoids stricter file-URL policies:
-   ```bash
-   # Python 3
-   python -m http.server 8000
-   # then visit http://localhost:8000/test.html
+2. Open `h-x_diagram.html` in any modern browser (Chromium ≥102, Firefox ≥100, Safari ≥15).  
+ 
 
